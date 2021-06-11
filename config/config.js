@@ -1,12 +1,12 @@
 module.exports =
 {
     "development": {
-      "username": "root",
-      "password": "12345root",
-      "database": "images_db",
-      "host": "localhost",
-      "dialect": "mysql"
-    },
+      "username": <name>,
+      "password": <password>,
+      "database": <databsae name>,
+      "host": <host>,
+      "dialect": <sql software>
+    }/*,
     "test": {
       "username": "root",
       "password": null,
@@ -20,6 +20,6 @@ module.exports =
       "database": "database_production",
       "host": "127.0.0.1",
       "dialect": "mysql"
-    }
+    }*/
   }
   
