@@ -1,7 +1,7 @@
 # Demons(Demo of Nodejs with SQL)
-This is a demo sampole of linking NODEJS with ORM and MYSQL 
+This is a demo sample of linking NODEJS with ORM and MYSQL 
 
-Connecting Node to SQL  is a hard task an dno much help is available,so this is a sample of a workflow that has integrated ORM(Objected-Related  Mapping) to connect MYSQL to Nodejs.
+Connecting Node to SQL  is a hard task and not  much help is available,so this is a sample of a workflow that has integrated ORM(Objected-Related  Mapping) to connect MYSQL to Nodejs.
 
 This is following a basic CRUD structure and the link of postman is in descripion.
 
