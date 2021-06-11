@@ -1,13 +1,13 @@
 const Sequelize = require("sequelize");
 
 const sequelize = new Sequelize(
-  "images_db",
-  "root",
-  "12345root",
+  <DB_NAME>,
+  <username>,
+  <password>,
 
   {
-    host: "localhost",
-    dialect: "mysql",
+    host: <hostname>,
+    dialect: <software used like mysql,postgres etc.>,
 
     define: {
       timestamps: true,
